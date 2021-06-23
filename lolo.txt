@@ -1,2 +1,5 @@
 
 a lolo file is modified in the github online repo on 23 jun 2020
+
+ another modification from my local computer on 23 jun 2020
+
